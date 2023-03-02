@@ -14,5 +14,5 @@ En este Workshop aprendimos a implementar el uso de google colab y adaptarlo a a
 
 
 **Django**
-![Logo]([https://www.djangoproject.com/m/img/logos/django-logo-positive.png](https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png))
+![Logo](https://www.djangoproject.com/m/img/logos/django-logo-positive.png](https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png)
 
